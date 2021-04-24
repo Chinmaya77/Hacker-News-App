@@ -1,0 +1,54 @@
+.List-Container {
+    
+    display: flex;
+    padding-top: 5px;
+  }
+
+  .votearrow {
+    width: 10px;
+    height: 10px;
+    border: 0px;
+    margin: 3px 2px 6px;
+    background: url(../../Images/images/grayarrow.gif) no-repeat;
+  }
+
+  .number {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 9pt;
+    color: #828282;
+
+  }
+
+  .number-pad{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 9pt;
+    color: #828282;
+      padding-left: 8px;
+  }
+
+  .information{
+      display: flex;
+      flex-direction: column;
+  }
+
+  .storylink {
+    color: #000000;
+    text-decoration: none;
+    font-size: 10pt;
+
+  }
+
+  .subtext{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 7pt;
+    color: #828282; 
+  }
+
+  .morelink{
+    text-decoration: none;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 9pt;
+    color: #828282; 
+   
+    padding: 15px;
+  }

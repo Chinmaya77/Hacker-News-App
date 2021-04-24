@@ -1,0 +1,22 @@
+.footer-line {
+  background-color: #ff6600;
+  height: 2px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.footer-link-container {
+  color: #828282;
+  font-size: 9pt;
+  padding-left: 5px;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 9pt;
+  color: #828282;
+}
+
+.footer-search {
+  padding: 20px;
+}

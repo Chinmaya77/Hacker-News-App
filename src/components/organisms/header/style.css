@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #ff6600;
+  align-items: center;
+  height: 25px;
+}
+
+.header-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Link-all {
+  text-decoration: none;
+}
+.Link-img {
+  padding-left: 3px;
+}
+
+.Link-hackernews {
+  text-decoration: none;
+}
+
+.Link-separator {
+  color: rgb(53, 38, 38);
+  /* font-weight: 400; */
+  font-size: 9pt;
+}
+.loginText {
+  padding-right: 3px;
+}

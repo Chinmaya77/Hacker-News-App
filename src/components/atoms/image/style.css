@@ -1,0 +1,16 @@
+.border-rad-none {
+  border-radius: 0px;
+}
+
+.border-rad-10 {
+  border-radius: 10px;
+}
+
+.border-rad-20 {
+  border-radius: 20px;
+}
+
+.image-logo {
+  border:1px white solid;
+  
+}

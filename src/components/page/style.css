@@ -1,0 +1,13 @@
+.Header {
+  background-color: #f6f6ef;
+  width: 80%;
+  /* height: 80vh; */
+  /* text-align: start; */
+  text-align: center;
+  min-height: 100vh;
+}
+
+.children {
+  text-align: left;
+  padding-top: 10px;
+}
